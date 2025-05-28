@@ -1,6 +1,6 @@
-DATACOM - CYBERSECURITY JOB SIMULATION
+DATACOM - CYBERSECURITY JOB SIMULATION (FORAGE)
 
-Investigate a cyberattack and conduct a comprehensive risk assessment with Datacom
+Investigate a cyberattack and conduct a comprehensive risk assessment with DATACOM
 
 **Project Description**  
 This Job Simulation was a practical activity to simulate the investigation and mitigation of advanced cyber threats in a fictional corporate environment called *TechNova Solutions*. The focus was on analyzing the activities of the advanced persistent threat (APT) group known as *APT34*, which conducted complex attacks against the company. The task included identifying and analyzing attacks, assessing risks to the company’s assets, and proposing strategies for prevention and mitigation.
