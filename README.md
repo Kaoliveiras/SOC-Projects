@@ -1,7 +1,5 @@
-# SOC-Projects
-Practical simulation of Security Operations Center (SOC) tasks, including phishing analysis, OSINT investigation, SIEM monitoring, and threat hunting.
-
-# Job Simulation: Advanced Threat Investigation and Risk Assessment at TechNova Solutions
+DATACOM - CYBERSECURITY JOB SIMULATION
+Investigate a cyberattack and conduct a comprehensive risk assessment with Datacom
 
 **Project Description**  
 This Job Simulation was a practical activity to simulate the investigation and mitigation of advanced cyber threats in a fictional corporate environment called *TechNova Solutions*. The focus was on analyzing the activities of the advanced persistent threat (APT) group known as *APT34*, which conducted complex attacks against the company. The task included identifying and analyzing attacks, assessing risks to the company’s assets, and proposing strategies for prevention and mitigation.
